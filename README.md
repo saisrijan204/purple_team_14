@@ -23,17 +23,16 @@ Your prototype must prioritize the functional implementation of **two selected f
 
 ### Feature 1: [Feature Name]
 
-[Briefly elaborate on the feature, its purpose, and its expected functionality.]
+
 
 ### Feature 2: [Feature Name]
 
-[Briefly elaborate on the feature, its purpose, and its expected functionality.]
 
 
 
 ## 4. Setup & Running Instructions
 
-[Provide clear, step-by-step instructions to install dependencies, configure the project if necessary, and run the prototype locally.]
+
 
 
 
